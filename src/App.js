@@ -4,7 +4,6 @@ import sketch from './sketch';
 import p5 from 'p5';
 import Main from './Main';
 import { useState } from 'react'
-import Sound from 'react-sound';
 
 
 const TEXT = 'Feliz Cumpleaños Ximena';
