@@ -44,7 +44,7 @@ const App = (props) => {
           <div className='ml-80 '>
             <button class="absolute top-50 left-50 bg-rose-500 hover:bg-rose-700 text-white font-bold py-2 px-4 rounded-full"
             onClick={() => setShowModal(true)}>Click Aqui!</button>
-            <img className='w-1/4 ml-10 w-full' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75b671eb-8d92-4106-b26c-7aa016787a80/ddv0ggv-d70d96bf-9a3d-48f2-8c14-89b899e882a2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1YjY3MWViLThkOTItNDEwNi1iMjZjLTdhYTAxNjc4N2E4MFwvZGR2MGdndi1kNzBkOTZiZi05YTNkLTQ4ZjItOGMxNC04OWI4OTllODgyYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3juJ4GWxFuv_LCfaUhIzEdRdwsN-ICqSPqcH_tK0tyI'/>
+            <img className='w-1/4 ml-10' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75b671eb-8d92-4106-b26c-7aa016787a80/ddv0ggv-d70d96bf-9a3d-48f2-8c14-89b899e882a2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1YjY3MWViLThkOTItNDEwNi1iMjZjLTdhYTAxNjc4N2E4MFwvZGR2MGdndi1kNzBkOTZiZi05YTNkLTQ4ZjItOGMxNC04OWI4OTllODgyYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3juJ4GWxFuv_LCfaUhIzEdRdwsN-ICqSPqcH_tK0tyI'/>
             
           </div>
           
